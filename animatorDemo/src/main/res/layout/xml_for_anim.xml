@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zy.view.SlidingBackLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:orientation="vertical" 
+     android:id="@+id/back_linearlayout"
+     
+    >
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+    
+    <ImageView  
+        android:id="@+id/id_ball"  
+        android:layout_width="100dp"  
+        android:layout_height="100dp"  
+        android:src="@drawable/ball"   
+        android:onClick="playWithAfter"  
+        />
+
+    <Button
+        android:id="@+id/togetherRun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/playWithAfter"
+        android:layout_marginBottom="17dp"
+        android:onClick="togetherRun"
+        android:text="togetherRun" />
+
+    <Button
+        android:id="@+id/translationAnimRun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/togetherRun"
+        android:layout_alignBottom="@+id/togetherRun"
+        android:layout_alignParentRight="true"
+        android:onClick="translationAnimRun"
+        android:text="translationAnimRun" />
+
+    <Button
+        android:id="@+id/scaleAnimRun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/propertyValuesHolder"
+        android:layout_alignLeft="@+id/translationAnimRun"
+        android:onClick="scaleAnimRun"
+        android:text="scaleAnimRun" />
+
+    <Button
+        android:id="@+id/propertyValuesHolder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/playWithAfter"
+        android:layout_alignParentLeft="true"
+        android:onClick="propertyValuesHolder"
+        android:text="propertyValuesHolder" />
+
+    <Button
+        android:id="@+id/paowuxian"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/playWithAfter"
+        android:layout_alignBottom="@+id/playWithAfter"
+        android:layout_toRightOf="@+id/propertyValuesHolder"
+        android:onClick="paowuxian"
+        android:text="paowuxian" />
+
+    <Button
+        android:id="@+id/playWithAfter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/togetherRun"
+        android:layout_toLeftOf="@+id/translationAnimRun"
+        android:onClick="playWithAfter"
+        android:text="playWithAfter" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/scaleAnimRun"
+        android:layout_below="@+id/id_ball"
+        android:layout_marginTop="39dp"
+        android:onClick="next"
+        android:text="next" />
+    
+</RelativeLayout>
+</com.zy.view.SlidingBackLinearLayout>

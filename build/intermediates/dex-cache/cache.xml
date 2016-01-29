@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_c473ad7a970b506e2205c1b60c8cb1c4c3d0b499.jar" />
+    </item>
+    <item
+        jar="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_bd4bf9e6f5adb46a032da0c698768b2b1c4ab228.jar" />
+    </item>
+    <item
+        jar="D:\work\tools\studio\studio_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_af39936b961bd16d90754ce6bcedb9b852e91de7.jar" />
+    </item>
+    <item
+        jar="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\zy\ZhangYiTestAndroid\recodingDemo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_02dd7bfee326d50bdccedaff5050eb558c15fe95.jar" />
+    </item>
+
+</items>
