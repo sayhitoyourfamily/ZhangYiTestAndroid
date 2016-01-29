@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZhangYiTestAndroid.iml" filepath="$PROJECT_DIR$/ZhangYiTestAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatorDemo/animatorDemo.iml" filepath="$PROJECT_DIR$/animatorDemo/animatorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jSAndProguardDemo/jSAndProguardDemo.iml" filepath="$PROJECT_DIR$/jSAndProguardDemo/jSAndProguardDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ndkDemo1/ndkDemo1.iml" filepath="$PROJECT_DIR$/ndkDemo1/ndkDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recodingDemo/recodingDemo.iml" filepath="$PROJECT_DIR$/recodingDemo/recodingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectDemo/reflectDemo.iml" filepath="$PROJECT_DIR$/reflectDemo/reflectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxJavaDemo/rxJavaDemo.iml" filepath="$PROJECT_DIR$/rxJavaDemo/rxJavaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sDTest/sDTest.iml" filepath="$PROJECT_DIR$/sDTest/sDTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shakeDemo/shakeDemo.iml" filepath="$PROJECT_DIR$/shakeDemo/shakeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDayAndNight/switchDayAndNight.iml" filepath="$PROJECT_DIR$/switchDayAndNight/switchDayAndNight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testRecyclerview/testRecyclerview.iml" filepath="$PROJECT_DIR$/testRecyclerview/testRecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testScroller/testScroller.iml" filepath="$PROJECT_DIR$/testScroller/testScroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testThreadPool/testThreadPool.iml" filepath="$PROJECT_DIR$/testThreadPool/testThreadPool.iml" />
+    </modules>
+  </component>
+</project>

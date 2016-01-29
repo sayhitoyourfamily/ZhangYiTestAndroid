@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="MissingTranslation" severity="warning" />
+    <issue id="UselessParent">
+        <ignore path="res/layout/recommended_voice350.xml" />
+    </issue>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/cn/com/kuting/ktingservice/KtingDownService.java" />
+    </issue>
+</lint>

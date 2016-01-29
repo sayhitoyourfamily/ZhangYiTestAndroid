@@ -1,0 +1,13 @@
+include ':app', ':testScroller', ':testScroller', ':testRecyclerview'
+include ':switchDayAndNight'
+include ':testThreadPool'
+include ':shakeDemo'
+include ':animatorDemo'
+include ':designPatterns'
+include ':jSAndProguardDemo'
+include ':ndkDemo1'
+include ':reflectDemo'
+include ':rxJavaDemo'
+include ':sDTest'
+
+include ':recodingDemo'
