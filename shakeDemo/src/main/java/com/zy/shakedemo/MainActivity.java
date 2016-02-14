@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
 			
 			@Override
 			public void onShake() {
-				Toast.makeText(context, "Hello World ! ", Toast.LENGTH_SHORT).show();
+				Toast.makeText(context, "Hello World ! ! !", Toast.LENGTH_SHORT).show();
 			}
 		});
         
