@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="9575116065500" >
+
+    <task
+        name="javac"
+        duration="1428" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="285" />
+    <task
+        name="verifier"
+        duration="38" />
+
+    <artifact
+        location="D:\github_zhangyi\ZhangYiTestAndroid\animatorDemo\build\outputs\apk\animatorDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="9575116065500" >
+        <artifact
+            location="D:\github_zhangyi\ZhangYiTestAndroid\animatorDemo\build\outputs\apk\animatorDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
