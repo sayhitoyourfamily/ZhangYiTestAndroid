@@ -15,6 +15,8 @@ public interface GitHubService {
 
     @GET("users/{user}")
     Call<User> getUserInfo(@Path("user")String user);
+
     @GET("users/{user}")
     Observable<User> getUserInfoRX(@Path("user")String user);
+
 }
