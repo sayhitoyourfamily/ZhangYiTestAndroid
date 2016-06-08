@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ndkDemo1/ndkDemo1.iml" filepath="$PROJECT_DIR$/ndkDemo1/ndkDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/recodingDemo/recodingDemo.iml" filepath="$PROJECT_DIR$/recodingDemo/recodingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflectDemo/reflectDemo.iml" filepath="$PROJECT_DIR$/reflectDemo/reflectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" filepath="$PROJECT_DIR$/retrofitdemo/retrofitdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxJavaDemo/rxJavaDemo.iml" filepath="$PROJECT_DIR$/rxJavaDemo/rxJavaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sDTest/sDTest.iml" filepath="$PROJECT_DIR$/sDTest/sDTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/shakeDemo/shakeDemo.iml" filepath="$PROJECT_DIR$/shakeDemo/shakeDemo.iml" />

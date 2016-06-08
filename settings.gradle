@@ -1,4 +1,4 @@
-include ':app', ':testScroller', ':testScroller', ':testRecyclerview'
+include ':app', ':testScroller', ':testScroller', ':testRecyclerview', ':retrofitdemo'
 include ':switchDayAndNight'
 include ':testThreadPool'
 include ':shakeDemo'
