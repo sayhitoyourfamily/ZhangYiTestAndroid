@@ -12,7 +12,7 @@ import com.example.retrofitdemo.bean.CBaseBookVO;
 import com.example.retrofitdemo.bean.CGetBookInfoParam;
 import com.example.retrofitdemo.bean.User;
 import com.example.retrofitdemo.myservice.APIService;
-import com.example.retrofitdemo.tools.GsonTool;
+import com.example.retrofitdemo.utils.GsonUtil;
 
 import retrofit2.Call;
 import retrofit2.Callback;
@@ -40,8 +40,9 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        //getUserInfo();
-        getBookInfo();
+        getUserInfo();
+
+        //getBookInfo();
     }
 
     private void getBookInfo() {
@@ -50,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         getBookInfoParam.setLast_update_time(0);
         getBookInfoParam.setUserid(112254);
 
-        Call<CBaseBookVO> baseBookVo=APIService.getKuTingService().getBookInfo(GsonTool.toJSON(getBookInfoParam));
+        Call<CBaseBookVO> baseBookVo=APIService.getKuTingService().getBookInfo(GsonUtil.toJSON(getBookInfoParam));
         baseBookVo.enqueue(new Callback<CBaseBookVO>() {
             @Override
             public void onResponse(Call<CBaseBookVO> call, Response<CBaseBookVO> response) {
@@ -90,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getUserInfo() {
-        Call<User> userCall= APIService.getGitHubService().getUserInfo("zhangyi");
+       /* Call<User> userCall= APIService.getGitHubService().getUserInfo("zhangyi");
         userCall.enqueue(new Callback<User>() {
             @Override
             public void onResponse(Call<User> call, Response<User> response) {
@@ -106,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
             public void onFailure(Call<User> call, Throwable t) {
                 Log.i(TAG,"------onFailure------raw---"+t.toString());
             }
-        });
+        });*/
 
         Observable<User> userObservable=APIService.getGitHubService().getUserInfoRX("zhangyi");
         userObservable

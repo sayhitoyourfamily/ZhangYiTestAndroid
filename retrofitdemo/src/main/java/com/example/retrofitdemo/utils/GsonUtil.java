@@ -1,4 +1,4 @@
-package com.example.retrofitdemo.tools;
+package com.example.retrofitdemo.utils;
 
 import android.util.Log;
 
@@ -8,7 +8,7 @@ import com.google.gson.GsonBuilder;
 /**
  * Gson工具类
  */
-public class GsonTool {
+public class GsonUtil {
 
 	/**
 	 * 利用的java语言特性，内部类只有在使用的时候才会去初始化，

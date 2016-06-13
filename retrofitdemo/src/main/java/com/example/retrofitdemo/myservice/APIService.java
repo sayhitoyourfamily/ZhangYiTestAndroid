@@ -1,6 +1,6 @@
 package com.example.retrofitdemo.myservice;
 
-import com.example.retrofitdemo.tools.GsonTool;
+import com.example.retrofitdemo.utils.GsonUtil;
 
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
@@ -16,7 +16,7 @@ public class APIService {
         public static final Retrofit RETROFIT=new Retrofit.Builder()
                 .baseUrl(GITHUB_BASEURL)
                 .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
-                .addConverterFactory(GsonConverterFactory.create(GsonTool.getGsonInstance()))
+                .addConverterFactory(GsonConverterFactory.create(GsonUtil.getGsonInstance()))
                 .build();
 
     }
@@ -24,7 +24,7 @@ public class APIService {
         public static final Retrofit RETROFIT=new Retrofit.Builder()
                 .baseUrl(KUTING_BASEURL)
                 .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
-                .addConverterFactory(GsonConverterFactory.create(GsonTool.getGsonInstance()))
+                .addConverterFactory(GsonConverterFactory.create(GsonUtil.getGsonInstance()))
                 .build();
 
     }
