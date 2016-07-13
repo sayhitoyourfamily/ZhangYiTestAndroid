@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -60,12 +60,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -104,12 +104,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\rxJavaDemo\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",

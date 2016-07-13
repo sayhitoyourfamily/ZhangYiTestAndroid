@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",

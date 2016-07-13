@@ -40,20 +40,20 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\designPatterns\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",

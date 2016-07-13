@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/designPatterns/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns/designPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/jSAndProguardDemo/jSAndProguardDemo.iml" filepath="$PROJECT_DIR$/jSAndProguardDemo/jSAndProguardDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lifecycle/lifecycle.iml" filepath="$PROJECT_DIR$/lifecycle/lifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/ndkDemo1/ndkDemo1.iml" filepath="$PROJECT_DIR$/ndkDemo1/ndkDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/recodingDemo/recodingDemo.iml" filepath="$PROJECT_DIR$/recodingDemo/recodingDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflectDemo/reflectDemo.iml" filepath="$PROJECT_DIR$/reflectDemo/reflectDemo.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/testRecyclerview/testRecyclerview.iml" filepath="$PROJECT_DIR$/testRecyclerview/testRecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/testScroller/testScroller.iml" filepath="$PROJECT_DIR$/testScroller/testScroller.iml" />
       <module fileurl="file://$PROJECT_DIR$/testThreadPool/testThreadPool.iml" filepath="$PROJECT_DIR$/testThreadPool/testThreadPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdemo/viewdemo.iml" filepath="$PROJECT_DIR$/viewdemo/viewdemo.iml" />
     </modules>
   </component>
 </project>

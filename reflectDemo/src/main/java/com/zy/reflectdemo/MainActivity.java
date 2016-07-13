@@ -67,12 +67,11 @@ public class MainActivity extends Activity {
 			method.setAccessible(true);
 			method.invoke(person, null);
 			Method method2=demo4.getDeclaredMethod("sayHi", String.class);
-			//method2.setAccessible(true);
+			method2.setAccessible(true);
 			method2.invoke(person, "haha");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-        
     }
 
 }

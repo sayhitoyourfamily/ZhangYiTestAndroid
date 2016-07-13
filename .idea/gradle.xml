@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/designPatterns" />
             <option value="$PROJECT_DIR$/jSAndProguardDemo" />
+            <option value="$PROJECT_DIR$/lifecycle" />
             <option value="$PROJECT_DIR$/ndkDemo1" />
             <option value="$PROJECT_DIR$/recodingDemo" />
             <option value="$PROJECT_DIR$/reflectDemo" />
@@ -25,6 +26,7 @@
             <option value="$PROJECT_DIR$/testRecyclerview" />
             <option value="$PROJECT_DIR$/testScroller" />
             <option value="$PROJECT_DIR$/testThreadPool" />
+            <option value="$PROJECT_DIR$/viewdemo" />
           </set>
         </option>
         <option name="myModules">
@@ -34,6 +36,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/designPatterns" />
             <option value="$PROJECT_DIR$/jSAndProguardDemo" />
+            <option value="$PROJECT_DIR$/lifecycle" />
             <option value="$PROJECT_DIR$/ndkDemo1" />
             <option value="$PROJECT_DIR$/recodingDemo" />
             <option value="$PROJECT_DIR$/reflectDemo" />
@@ -45,6 +48,7 @@
             <option value="$PROJECT_DIR$/testRecyclerview" />
             <option value="$PROJECT_DIR$/testScroller" />
             <option value="$PROJECT_DIR$/testThreadPool" />
+            <option value="$PROJECT_DIR$/viewdemo" />
           </set>
         </option>
       </GradleProjectSettings>

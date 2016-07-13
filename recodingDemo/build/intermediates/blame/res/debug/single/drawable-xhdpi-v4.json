@@ -32,12 +32,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
@@ -64,12 +64,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",

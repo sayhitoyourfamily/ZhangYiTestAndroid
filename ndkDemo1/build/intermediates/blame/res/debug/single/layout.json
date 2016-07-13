@@ -136,15 +136,15 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\ndkDemo1\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
     }
 ]

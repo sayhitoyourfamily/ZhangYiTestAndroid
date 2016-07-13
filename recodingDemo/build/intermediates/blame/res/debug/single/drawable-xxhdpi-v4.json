@@ -96,12 +96,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\recodingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",

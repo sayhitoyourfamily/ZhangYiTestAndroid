@@ -48,12 +48,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_loading.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\src\\main\\res\\anim\\anim_loading.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\build\\intermediates\\res\\merged\\debug\\anim\\anim_loading.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\src\\main\\res\\anim\\anim_loading.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\animatorDemo\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",

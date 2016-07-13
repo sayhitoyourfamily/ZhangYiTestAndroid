@@ -36,12 +36,12 @@
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "D:\\github_zhangyi\\ZhangYiTestAndroid\\sDTest\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
